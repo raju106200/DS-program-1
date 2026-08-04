@@ -1,2 +1,2 @@
 # DS-program-1
-this is ds first program
+c program to accept and display array element
